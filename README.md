@@ -15,5 +15,5 @@ You can import this project onto Eclipse IDE and run it from there. Or if you pr
 
 This will run the game against an intelligent computer. Please refer to the sources section to better understand the game. 
 
-Source: http://tim.hibal.org/blog/?p=92
+This is a modified version of tim's Checkers game. Source: http://tim.hibal.org/blog/?p=92
 
