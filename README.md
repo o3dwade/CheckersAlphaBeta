@@ -6,7 +6,7 @@ This is a game of checkers that has both the minimax algorithm, and alpha beta p
 Instructions:
 You can import this project onto Eclipse IDE and run it from there. Or if you prefer the terminal route, then 
 
-1. cd to src then cd to CS480Checkers
+1. cd to src 
 
 2. javac Checkers.java
 
